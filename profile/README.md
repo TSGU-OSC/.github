@@ -1,4 +1,13 @@
-# 开源鸿蒙社
+<div align="center">
+
+<img src="../img/logo.png" style="width:100%">
+
+<h3><a href="https://osc.tsguas.cn">osc.tsguas.cn</a></h3>
+
+<h1>天津中德应用技术大学开源鸿蒙社</h1>
+
+</div>
+
 
 ### 社团介绍
 
@@ -13,7 +22,7 @@
 
 - 🔗[gitee](https://gitee.com/TSGU-OSC)
 
-### 社团仓库
+### 社团仓库导航
 
 - [点击即可进入导航仓库](../../../OSC_main)
 
@@ -25,6 +34,17 @@
 * 实践和项目竞赛
 * 活动和聚会等等
 
+### 社团项目
+
+|项目名称|项目介绍|项目地址|
+|---|---|---|
+|OpenConverter|开源转换器|[JackLau1222/OpenConverter](https://github.com/JackLau1222/OpenConverter)|
+|Website|社团网站|[TSGU-OSC/website](https://github.com/TSGU-OSC/website)|
+|management-system|社团管理系统|[TSGU-OSC/management-system](https://github.com/TSGU-OSC/management-system)|
+|Learn_FFmpeg_the_Hard_Way|FFmpeg知识仓库|[TSGU-OSC/Learn_FFmpeg_the_Hard_Way](https://github.com/TSGU-OSC/Learn_FFmpeg_the_Hard_Way)|
+
+
+
 ### 定位与愿景
 
 我们的社团定位于高校开源社区，旨在为学生提供一个开放、互助、共享的学习和实践平台。我们的愿景是通过组织各种形式的开源活动、推广优秀的开源项目和技术、提供导师支持等方式，帮助学生更好地掌握开源技术，提升其职业素养和竞争力。
@@ -32,8 +52,4 @@
 
 ### 如何加入
 
-如果你对开源技术充满热情，想要了解更多的开源项目和技术，欢迎加入我们的社团。请发送申请邮件至（填写社团联系人的邮箱），我们将尽快与你联系。
-
-### 联系我们
-
-邮箱：jacklau1222@foxmail.com
+如果你对开源技术充满热情，想要了解更多的开源项目和技术，欢迎加入我们的社团。请发送申请邮件至（填写社团联系人的邮箱`jacklau1222@foxmail.com`），我们将尽快与你联系。
