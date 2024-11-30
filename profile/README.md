@@ -42,7 +42,7 @@
 |Website|社团网站|[TSGU-OSC/website](https://github.com/TSGU-OSC/website)|
 |management-system|社团管理系统|[TSGU-OSC/management-system](https://github.com/TSGU-OSC/management-system)|
 |Learn_FFmpeg_the_Hard_Way|FFmpeg知识仓库|[TSGU-OSC/Learn_FFmpeg_the_Hard_Way](https://github.com/TSGU-OSC/Learn_FFmpeg_the_Hard_Way)|
-
+|Simple-AV-Synchronization-Player|简易音视频同步播放器|[JackLau1222/Simple-AV-Synchronization-Player](https://github.com/JackLau1222/Simple-AV-Synchronization-Player)|
 
 
 ### 定位与愿景
