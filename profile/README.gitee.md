@@ -24,7 +24,7 @@
 
 ### 社团仓库导航
 
-- [点击即可进入导航仓库](https://github.com/TSGU-OSC/OSC_main)
+- [点击即可进入导航仓库](https://gitee.com/TSGU-OSC/OSC_main)
 
 ### 社团活动
 我们会定期举办各种活动，包括：
@@ -38,10 +38,10 @@
 
 |项目名称|项目介绍|项目地址|
 |---|---|---|
-|OpenConverter|开源转换器|[JackLau1222/OpenConverter](https://github.com/JackLau1222/OpenConverter)|
-|Website|社团网站|[TSGU-OSC/website](https://github.com/TSGU-OSC/website)|
-|management-system|社团管理系统|[TSGU-OSC/management-system](https://github.com/TSGU-OSC/management-system)|
-|Learn_FFmpeg_the_Hard_Way|FFmpeg知识仓库|[TSGU-OSC/Learn_FFmpeg_the_Hard_Way](https://github.com/TSGU-OSC/Learn_FFmpeg_the_Hard_Way)|
+|OpenConverter|开源转换器|[JackLau1222/OpenConverter](https://gitee.com/TSGU-OSC/OpenConverter)|
+|Website|社团网站|[TSGU-OSC/website](https://gitee.com/TSGU-OSC/website)|
+|management-system|社团管理系统|[TSGU-OSC/management-system](https://gitee.com/TSGU-OSC/management-system)|
+|Learn_FFmpeg_the_Hard_Way|FFmpeg知识仓库|[TSGU-OSC/Learn_FFmpeg_the_Hard_Way](https://gitee.com/TSGU-OSC/Learn_FFmpeg_the_Hard_Way)|
 |Simple-AV-Synchronization-Player|简易音视频同步播放器|[JackLau1222/Simple-AV-Synchronization-Player](https://github.com/JackLau1222/Simple-AV-Synchronization-Player)|
 
 
